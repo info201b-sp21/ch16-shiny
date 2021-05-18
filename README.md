@@ -9,6 +9,8 @@ exercises.
 * demo 3: radioButtons to change plot color
 
 * ex 1: load functions from a file
-* ex 2: create shiny app, select color, n, make a scatterplot
+* ex 2: create shiny app, select color, n, make a basic scatterplot
 * ex 3: create plotly map, compute votes/population
 * ex 4: map + scatterplot, different layouts
+* ex 5: plot a dataset in different ways that the user can select
+* ex 6: plot iris data, select x/y variables, add jitter if requested
